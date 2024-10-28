@@ -1,4 +1,5 @@
-# COL106 Programming Assignments
+# Programming Assignments 
+Part of Data Structures and Algorithms course at IIT Delhi (2022-23 Semester I)
 
 ## a1: Drone Movement
 
